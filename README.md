@@ -1,4 +1,2 @@
 # hello-world
-As always, my hello world to say hello
-
-And this is an example about a branch
+As always, my hello world text to say hello all
